@@ -16,7 +16,7 @@ Generar gráficos que representen las posiciones del genoma que son similares y 
 
 ## Requisitos
 
-Python 3.x
+Python 3.11.5
 Bibliotecas: Biopython, Matplotlib
 Software: MUSCLE
 
